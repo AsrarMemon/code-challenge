@@ -1,0 +1,175 @@
+
+.header {
+  width: 100%;
+  height: 129px;
+  left: 0;
+  top: -119px;
+  background: #E5D0FF;
+}
+.logo {
+  position: absolute;
+  width: 75px;
+  height: 75px;
+  left: 19px;
+  top: 99px;
+  border-radius: 16px;
+  background: #BB85FF;
+  border: 1px solid #CCCCCC;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.04);
+}
+.sign {
+  position: absolute;
+  width: 26.86px;
+  height: 19.94px;
+  left: 36.84px;
+  top: 134.62px;
+
+  /* text/200 */
+  transform: rotate(10deg);
+}
+.pen {
+  position: absolute;
+  left: 64px;
+  top: 121px;
+}
+
+.shareBtnTxt {
+  font-family: Manrope;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+  letter-spacing: -0.408px;
+  color: #587BE0;
+  float: right;
+  padding: 15px;
+  display: flex;
+}
+
+.subHeader h1 {
+  font-family: Manrope;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 25px;
+  color: #414047;
+  padding-top: 45px;
+  padding-left: 22px;
+  margin-bottom: 5px;
+} 
+
+.subHeader p {
+  font-family: Manrope;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #6F6E73;
+  padding-left: 22px;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-bottom: 5px;
+}
+
+.subHeader a {
+  font-family: Manrope;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 22px;
+  color: #587BE0;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 22px;
+}
+.docFormButton {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px;
+  margin-left: 22px;
+  background: #414047;
+  border-radius: 10px;
+  color: white;
+  font-family: Manrope;
+  font-style: normal;
+  font-size: 14px;
+}
+.firstSection {
+  padding-top: 15px;
+  display: flex;
+}
+.userIcons {
+  padding: 10px;
+}
+
+
+.RightUpArrowStyle {
+  margin-left: 16px;
+  padding-top: 3px;
+  padding-right: 6px;
+}
+
+.friendIcon {
+  padding-top: 14px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+.exportIcon {
+  width: 25px;
+  padding-right: 5px;
+  padding-top: 1px;
+}
+
+.subLabel {
+  font-family: Manrope;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 22px;
+  color: #6F6E73;
+}
+
+.anchar {
+  font-family: Manrope;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 20px;
+  color: #885FFF;
+}
+.worldImageText {
+  font-family: Manrope;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 20px;
+  color: #885FFF;
+  padding-left: 5px;
+}
+.listItem {
+  padding: 15px;
+  display: flex;
+}
+.listItemTitle {
+    align-items: center;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.listItemTitle p {
+    text-align: center;
+    width: fit-content;
+    background: #F5F5F5;
+    padding: 10px;
+    border-radius: 20px;
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 18px;
+}
+.roundImage {
+  border-radius: 75px;
+  width: 75px;
+  height: 75px;
+}

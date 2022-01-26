@@ -1,0 +1,2 @@
+export const GET_USER_COUNT = "GET_USER_COUNT";
+export const GET_ACTIVITY = "GET_ACTIVITY";
